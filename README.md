@@ -8,19 +8,19 @@ It's a to-do list application using HTML, CSS, and JavaScript. This project will
 - Mark tasks as completed by clicking on them.
 - Remove tasks from the list.
 
-## Project Structure
+# Project Structure
 
-# HTML:
+## HTML:
 
 The basic structure includes an input field to enter tasks and a button to add tasks to the list.
 The ul element will contain the list of tasks.
 
-# CSS:
+## CSS:
 
 Styles for the body, container, input field, button, and task list.
 Hover effect for the button and style for completed tasks.
 
-# JavaScript:
+## JavaScript:
 
 addTask() function adds a new task to the list when the button is clicked.
 Each task is added as an li element, and clicking on a task toggles its completion state.
