@@ -2,6 +2,10 @@
 
 It's a to-do list application using HTML, CSS, and JavaScript. This project will help you understand the basics of web development and how to create interactive web pages.
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 ## Features
 
 - Add tasks to the daily activities.
